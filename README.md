@@ -1,2 +1,3 @@
 ## Quarantine-games
-Would be adding some TP games. 😂
+### 1. Hangman
+The Classic Game of Random Guessing. 😌
