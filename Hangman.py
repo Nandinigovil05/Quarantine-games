@@ -7,6 +7,7 @@ Created on Tue Mar 24 13:35:06 2020
 
 import random
 import time 
+import sys
 
 name=input("what's your name?")
 print(' Hi '+ name +' ❤️ ')
@@ -26,7 +27,8 @@ def play_again():
         pass
 
 def get_word():
-    words = ['cat', 'dog', 'python', 'monkey', 'snake']
+    words = ['cat', 'dog', 'python', 'monkey', 'snake','frog','toad','scorpion','spider','albatross','crow','pigeon','duck','eagle','falcon',
+             'finch','parrot','penguin','vulture','grasshopper','camel','deer','dolphin','elephant','fox','squirrel','chameleon','leech']
     return random.choice(words)
 
 def play_game():
@@ -74,8 +76,13 @@ def play_game():
             else:
                 print('Sorry, that was not the word we were looking for 😟')
                 tries -= 1
+                
+        #3 - user wants to exit at any point of time.
+        elif  guess =='exit' or 'leave':
+            print('Thank you and have a nice day.')
+            sys.exit(0)
 
-        #3 - user inputs letters > total number of letters in the word.  
+        #4 - user inputs letters > total number of letters in the word or 1 letter. 
         else:
             print('The length of your guess is not the same as the length of the word we\'re looking for 😶')
 
@@ -102,3 +109,4 @@ def play_game():
     play_again()
 
 play_game()
+
