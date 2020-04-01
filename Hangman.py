@@ -28,7 +28,9 @@ def play_again():
 
 def get_word():
     words = ['cat', 'dog', 'python', 'monkey', 'snake','frog','toad','scorpion','spider','albatross','crow','pigeon','duck','eagle','falcon',
-             'finch','parrot','penguin','vulture','grasshopper','camel','deer','dolphin','elephant','fox','squirrel','chameleon','leech']
+             'finch','parrot','penguin','vulture','grasshopper','camel','deer','dolphin','elephant','fox','squirrel','chameleon','leech',
+            'hippopotamus','horse','kangaroo','kitten','lion','lobster','octopus','owl','panda','pig','puppy','rabbit'
+]
     return random.choice(words)
 
 def play_game():
