@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 24 13:35:06 2020
-
-@author: Lenovo
-"""
-
 import random
 import time 
 import sys
