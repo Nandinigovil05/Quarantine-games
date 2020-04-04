@@ -20,10 +20,10 @@ def play_again():
         pass
 
 def get_word():
-    words = ['cat', 'dog', 'python', 'monkey', 'snake','frog','toad','scorpion','spider','albatross','crow','pigeon','duck','eagle','falcon',
-             'finch','parrot','penguin','vulture','grasshopper','camel','deer','dolphin','elephant','fox','squirrel','chameleon','leech',
-            'hippopotamus','horse','kangaroo','kitten','lion','lobster','octopus','owl','panda','pig','puppy','rabbit'
-]
+    words = ['albatross', 'alligator', 'ant', 'bear', 'bee', 'camel', 'cat', 'chameleon', 'cheetah', 'chicken', 'chimpanzee', 'cow', 
+             'crocodile', 'crow', 'deer', 'dog', 'dolphin', 'duck', 'eagle', 'elephant', 'falcon', 'finch', 'fox', 'frog', 'grasshopper',
+             'hippopotamus', 'horse', 'kangaroo', 'kitten', 'leech', 'lion', 'lobster', 'monkey', 'octopus', 'owl', 'panda', 'parrot',
+             'penguin', 'pig', 'pigeon', 'puppy', 'python', 'rabbit', 'scorpion', 'snake', 'spider', 'squirrel', 'toad', 'vulture']
     return random.choice(words)
 
 def play_game():
