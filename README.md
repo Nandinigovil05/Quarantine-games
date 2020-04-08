@@ -8,5 +8,6 @@ The Classic Game of Random Guessing. 😌![download](https://user-images.githubu
 
 ![Capture](https://user-images.githubusercontent.com/47412487/78151343-2382b700-7456-11ea-8ceb-0ce28a1b0e2c.PNG)
 
-
+### 3. Casino Fortune
+A game to test your luck.
 
