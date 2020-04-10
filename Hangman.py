@@ -20,8 +20,8 @@ def play_again():
         pass
 
 def get_word():
-    words = ['albatross', 'alligator', 'ant', 'bear', 'bee', 'camel', 'cat', 'chameleon', 'cheetah', 'chicken', 'chimpanzee', 'cow', 
-             'crocodile', 'crow', 'deer', 'dog', 'dolphin', 'duck', 'eagle', 'elephant', 'falcon', 'finch', 'fox', 'frog', 'grasshopper',
+    words = ['albatross', 'alligator', 'ant','badger','baldplate','bandicoot', 'bear', 'bee', 'camel', 'cat', 'chameleon', 'cheetah', 'chicken', 'chimpanzee', 'cow', 
+             'crocodile', 'crow', 'deer', 'dog', 'dolphin', 'duck','earwig', 'eagle', 'elephant', 'falcon', 'finch', 'fox', 'frog', 'grasshopper',
              'hippopotamus', 'horse', 'kangaroo', 'kitten', 'leech', 'lion', 'lobster', 'monkey', 'octopus', 'owl', 'panda', 'parrot',
              'penguin', 'pig', 'pigeon', 'puppy', 'python', 'rabbit','rat','scorpion', 'snake','spider', 'squirrel','tiger', 'toad','turtle','vulture','wolf','zebra']
     return random.choice(words)
