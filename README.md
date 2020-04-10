@@ -8,9 +8,14 @@ The Classic Game of Random Guessing. 😌![download](https://user-images.githubu
 
 ![Capture](https://user-images.githubusercontent.com/47412487/78151343-2382b700-7456-11ea-8ceb-0ce28a1b0e2c.PNG)
 
+
+
+
 ### 3. Casino Fortune
+
+![images](https://user-images.githubusercontent.com/47412487/79012548-2bdc9f80-7b84-11ea-93a7-fa80b720af05.jpg)
+                             
 A game to test your luck.
-(would be adding more info soon)
 
 ### 4. Snake Xenia
 A classic game, recreated.
