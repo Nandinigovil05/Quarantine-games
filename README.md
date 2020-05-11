@@ -17,7 +17,5 @@ The Classic Game of Random Guessing. 😌![download](https://user-images.githubu
                              
 A game to test your luck.
 
-### 4. Snake Xenia
-A classic game, to be recreated soon XD.
 
 
