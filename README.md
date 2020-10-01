@@ -15,7 +15,7 @@ The Classic Game of Random Guessing. 😌![download](https://user-images.githubu
 
 ![images](https://user-images.githubusercontent.com/47412487/79012548-2bdc9f80-7b84-11ea-93a7-fa80b720af05.jpg)
                              
-A game to test your luck.
+A game to test your luck interestingly made using emojis as variable.
 
 
 
